@@ -3,7 +3,6 @@
 int main() 
 {
 	std::cout << "\033[32mTest valid constructions\033[0m" << std::endl << std::endl;
-
     try 
 	{
         Bureaucrat bureaucrat("John", 1);
